@@ -1,11 +1,10 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:       </h3>
-<h3>Register Number:           </h3>
+<h3>Name: Zafreen J      </h3>
+<h3>Register Number: 212223040252           </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
 
-``````
 // A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
@@ -48,7 +47,7 @@
     e) push q on the closed list
     end (while loop)
 
-``````
+
 
 <hr>
 <h2>Sample Graph I</h2>
@@ -117,3 +116,8 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+output:
+![image](https://github.com/user-attachments/assets/eb584542-4344-4df7-8cde-3fbfe227f29c)
+
+Result:
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
