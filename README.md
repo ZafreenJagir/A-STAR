@@ -197,4 +197,5 @@ output:
 
 
 Result:
+
 Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
